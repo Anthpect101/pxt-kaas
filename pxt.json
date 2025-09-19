@@ -1,0 +1,11 @@
+{
+  "name": "kaas",
+  "version": "1.0.0",
+  "description": "Kick A** Audio Solution - ADPCM audio on micro:bit",
+  "files": [
+    "main.ts"
+  ],
+  "dependencies": {
+    "core": "*"
+  }
+}
